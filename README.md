@@ -41,4 +41,4 @@ CUDA_VISIBLE_DEVICES=0 python test.py big --resume ./path_to_your_stage_2_models
 
 ## Acknowledgements
 
-This project is built on source codes shared by [LGM](https://github.com/3DTopia/LGM), [SiTH](https://github.com/SiTH-Diffusion/SiTH), [MVDream](https://github.com/bytedance/MVDream) and [Multigo](https://github.com/gzhang292/MultiGO).
+This project is built on source codes shared by [LGM](https://github.com/3DTopia/LGM), [SiTH](https://github.com/SiTH-Diffusion/SiTH), [MVDream](https://github.com/bytedance/MVDream) and [MultiGo](https://github.com/gzhang292/MultiGO).
