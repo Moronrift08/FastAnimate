@@ -27,7 +27,7 @@ smpl_related
 - Data: register and download [X-Humans](https://github.com/Skype-line/X-Avatar?tab=readme-ov-file)
 
 
-### Training
+### Train
 
 ```
 CUDA_VISIBLE_DEVICES=0,1,2,3 nohup accelerate launch --config_file acc_configs/gpu4.yaml train.py  big --workspace workspace_train --resume ./path_to_your_stage_1_models
